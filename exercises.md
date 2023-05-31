@@ -6,9 +6,12 @@
 [call of cthulu N+7](https://abalone-east-secure.glitch.me/)
 
 week 5 twine story 
+
 [sense of humor of a 12 year old](https://singular-gumdrop-b40c11.netlify.app/)
 
 [Animation](https://lush-incongruous-athlete.glitch.me/)
+
+[Uncle John's bizzare adventure](https://magical-griffin-f2278a.netlify.app/)
 
 
 
