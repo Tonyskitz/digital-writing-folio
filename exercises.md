@@ -6,8 +6,6 @@
 
 [call of cthulu N+7](https://abalone-east-secure.glitch.me/)
 
-week 5 twine story 
-
 [sense of humor of a 12 year old](https://singular-gumdrop-b40c11.netlify.app/)
 
 [Animation](https://lush-incongruous-athlete.glitch.me/)
@@ -15,6 +13,21 @@ week 5 twine story
 [Uncle John's bizzare adventure](https://magical-griffin-f2278a.netlify.app/)
 
  [To Make a Dadaist Poem](https://melted-chestnut-freeze.glitch.me)
+
+
+
+What types of writing do you do (ie fiction, nonfiction, poetry, other)?
+I mainly write long fantasy fiction novels.
+
+What tools (or techniques) do you use to write?
+Google docs
+
+Why do you use these tools (or techniques)?
+Because it is simple and allows me to write a story on my own.
+
+How do these tools shape the way you write (e.g., constrain the way you write or facilitate your writing)?
+Due to the nature of prose fiction certain action sequences are not as exciting or visceral compared to visual mediums such as animation or comics. It facilitates my writing by allowing me as a writer to instead focus more on the characters and delve deeper into the psychology of the characters mind.
+
 
 
 
