@@ -14,6 +14,8 @@
 
  [To Make a Dadaist Poem](https://melted-chestnut-freeze.glitch.me)
 
+[samurai twine story](https://idyllic-palmier-eae826.netlify.app/)
+
 [Your dads house](https://ornate-mousse-fd2306.netlify.app)
 
 What types of writing do you do (ie fiction, nonfiction, poetry, other)?
