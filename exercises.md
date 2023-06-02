@@ -17,6 +17,43 @@
 [Your dads house](https://ornate-mousse-fd2306.netlify.app)
 
 
+Readings 
+
+Week 1
+
+What is electronic literature ?
+Electronic has an interesting history starting out with simple hypertext fiction and eventually evolving into several different styles and genres. Two of the genres most prominent are generative art and interactive fiction. Interactive fiction is the style that I am personally most interested in as I play a degree of video games. Games and interactive fiction are similar in a lot of ways and  the piece lists some ways that digital mediums can enhance storytelling such as through the usage of visuals, animations and graphics. Generative art is also an interesting tool as it uses algorithms to randomly generate pieces of poetry and  writing . While generative art is interesting I don't believe I will engage in it as much in this class as I don't find it as fun or interesting as interactive fiction. 
+
+
+
+Week 2
+Shade reading 
+This reading made me understand how shade utilized and subverted genre expectations. In particular the emphasis on light was an intriguing point of discussion. Douglass examines how light is often utilized in other works of interactive fiction and discusses how shade utilizes light not only as a narrative element but also as subverts certain ideas about light as the player embraces the darkness rather than having the darkness kill them.
+The reading made me appreciate shade more as a work of fiction and made me want to go back and experience the game as whole although now that I know how it ends it might be useful to have a guide with me. While I understand the difficult nature of the game to be intentional and to reflect the characters mindset, I found it frustrating to play with and I believe that my inform 7 piece will be a lot less difficult to navigate.
+
+
+
+Week 7
+This piece drew a comparison between video games and poetry and discussed how they were similar in certain ways. It discusses how video games are a language in that the video game form graphics, animation art , storytelling are all aspects of the language itself and this is similar to poetry in which other aspects independent of the text itself such as rhyme sound symbolism etc are taken in as part of the language. The piece also discusses why videogames are more popular than poetry in that games provide entertainment and guide the audience rather than acting like an authority. The piece also mentions the diversity of video games as opposed to poetry. I think a lot of what the price said was intuitively true, especially about how video games are simply more entertaining and also have a myriad of different ways of drawing in an audience independent of simply good storytelling.
+
+
+
+
+Week 10 white supremacy  
+Ikeda's piece on white supremacy as a structural system in electronics literature is an insightful read. It draws on many ideas of critical race theory and systemic racism arguing that the structure of electronic literature is imbued with white supremacists attitudes. Through this lens they evaluate some of the effects that this has on the field of electronic literature and attempt to change this current normative view of the medium. I found this piece interesting as it drew on many of the themes of critical race analysis in which participants attempt to view certain structures and institutions through the lens of race, whether it be the educational system, judicial system or the media. Ikeda focuses her lens on electronic literature and discusses some of the ways that technology utilized in electronic media can be harmful in terms of representing people of color. The example of the search engines was interesting and argues that search engines dont supply objective data but instead is imbued with the values of the intelligence class which lacks significant representation and this objectifies people of color. I found their overall critique similar to other ideas I encountered such as the idea of antiracism and a rejection of colorblindness. Only a few years ago people had the notion that to end racism we had to treat race as if fit does not exist. That notion however has resulted in injust systems such as the United states police department. It is therefore necessary from Ikeda's viewpoint that we actively discuss and bring down old structures of white supremacy rather than simply accept it.
+
+
+
+
+
+
+
+
+
+
+
+
+
 What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read?
 
 Shade is unique in terms of its interactive nature. It feels much more like a video game than the other works and I think it comes down to the fact that it allows the players to directly type what they want the character to do.
