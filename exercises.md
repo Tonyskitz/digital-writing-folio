@@ -57,6 +57,8 @@ Ikeda's piece on white supremacy as a structural system in electronics literatur
 
 
 
+
+
 What elements of the works ("Taroko Gorge", "The Gathering Cloud", "First Draft of the Revolution", and "Shade") do you read?
 
 Shade is unique in terms of its interactive nature. It feels much more like a video game than the other works and I think it comes down to the fact that it allows the players to directly type what they want the character to do.
